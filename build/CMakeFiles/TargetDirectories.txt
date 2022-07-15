@@ -1,0 +1,3 @@
+D:/workspace/FreeImage/build_android/build/CMakeFiles/FreeImage.dir
+D:/workspace/FreeImage/build_android/build/CMakeFiles/edit_cache.dir
+D:/workspace/FreeImage/build_android/build/CMakeFiles/rebuild_cache.dir

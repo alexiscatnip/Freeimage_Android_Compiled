@@ -1,0 +1,25 @@
+CMakeFiles/FreeImage.dir/Source/OpenEXR/IlmImf/ImfFramesPerSecond.cpp.o: \
+  D:\workspace\FreeImage\build_android\Source\OpenEXR\IlmImf\ImfFramesPerSecond.cpp \
+  D:\workspace\FreeImage\build_android\Source\OpenEXR\IlmImf\ImfFramesPerSecond.h \
+  D:\workspace\FreeImage\build_android\Source\OpenEXR\IlmImf/ImfRational.h \
+  D:\workspace\FreeImage\build_android\Source\OpenEXR\IlmImf/ImfExport.h \
+  D:\workspace\FreeImage\build_android\Source\OpenEXR\IlmImf/ImfNamespace.h \
+  D:\workspace\FreeImage\build_android\Source\OpenEXR\OpenEXRConfig.h \
+  D:\workspace\FreeImage\build_android\Source\OpenEXR\Imath\ImathFun.h \
+  D:\workspace\FreeImage\build_android\Source\OpenEXR\Imath/ImathExport.h \
+  D:\workspace\FreeImage\build_android\Source\OpenEXR\Imath/ImathLimits.h \
+  D:\workspace\FreeImage\build_android\Source\OpenEXR\Imath/ImathNamespace.h \
+  D:\workspace\FreeImage\build_android\Source\OpenEXR\IlmBaseConfig.h \
+  C:/Unity/2020.3.26f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1\float.h \
+  C:/Unity/2020.3.26f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1\__config \
+  C:/Unity/2020.3.26f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include\features.h \
+  C:/Unity/2020.3.26f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include\sys/cdefs.h \
+  C:/Unity/2020.3.26f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include\android/api-level.h \
+  C:/Unity/2020.3.26f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include\android/versioning.h \
+  C:\Unity\2020.3.26f1\Editor\Data\PlaybackEngines\AndroidPlayer\NDK\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\8.0.2\include\float.h \
+  C:/Unity/2020.3.26f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1\limits.h \
+  C:\Unity\2020.3.26f1\Editor\Data\PlaybackEngines\AndroidPlayer\NDK\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\8.0.2\include\limits.h \
+  C:/Unity/2020.3.26f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include\limits.h \
+  C:/Unity/2020.3.26f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include\linux/limits.h \
+  C:/Unity/2020.3.26f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include\bits/posix_limits.h \
+  D:\workspace\FreeImage\build_android\Source\OpenEXR\Imath/ImathInt64.h
